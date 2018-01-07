@@ -1,6 +1,4 @@
 #!/bin/bash
-
-sudo -s
-mkdir /var/discourse
-git clone https://github.com/discourse/discourse /var/discourse
+sudo mkdir /var/discourse
+sudo git clone https://github.com/discourse/discourse /var/discourse
 
