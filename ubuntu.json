@@ -61,9 +61,9 @@
         "scripts/sudo.sh",
         "scripts/sshd.sh",
         "scripts/packages.sh",
-        "scripts/cleanup.sh",
         "scripts/redis.sh",	
-        "scripts/discourse.sh"	
+        "scripts/discourse.sh",	
+        "scripts/cleanup.sh"
       ],
       "type": "shell"
     }
